@@ -9,6 +9,8 @@ Quota for Foundry models depends on the subscription's quota tier (Free Tier and
 | Script | What it does | Changes anything? | Status |
 |---|---|---|---|
 | `Get-FoundryQuotaTier.ps1` | Shows the tier, assignment date and upgrade policy for the current subscription | No, read-only | Tested 15 Nov 2026 in Azure Cloud Shell |
+| `Get-FoundryQuotaTierAllSubscriptions.ps1` | Same, as one table for every subscription you can see | No, read-only | Untested |
+| `Set-FoundryQuotaTierNoAutoUpgrade.ps1` | Turns off automatic tier upgrades for the current subscription (preview feature) | Yes, a subscription setting | Untested |
 
 ## Real output
 
