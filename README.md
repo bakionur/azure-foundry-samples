@@ -8,8 +8,7 @@ Each sample lives in its own folder under `samples/`, with a short README that s
 
 | Sample | What it does | Site | Status |
 |---|---|---|---|
-| [foundry-quota-tier](samples/foundry-quota-tier) | Check which Microsoft Foundry quota tier a subscription is on, across one or all subscriptions | towershell.com | Partly tested |
-| [model-router](samples/model-router) | Deploy model router with a model subset and see which model answers each prompt | bakionur.com | Untested |
+| [foundry-quota-tier](samples/foundry-quota-tier) | Check which Microsoft Foundry quota tier a subscription is on | towershell.com | Tested 15 Nov 2026 |
 
 ## What "tested" means here
 
